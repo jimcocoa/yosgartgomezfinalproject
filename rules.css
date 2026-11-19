@@ -1,0 +1,37 @@
+
+#container {width:800px;
+            background-color: rgb(96, 133, 109);
+            padding:15px;
+            margin:auto;}
+
+h1,h2,h3 {font-style:italic;
+          font-weight:400;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+h1 {text-align:center;}
+ .special {color:rgb(164, 0, 235);}   
+
+.drawing {background-color:rgb(53, 46, 44)} 
+.painting {background-color:#90afaf;
+                 color:white;}  
+                 
+                 
+
+
+p {font-family: Arial, Helvetica, sans-serif;
+   width:500px;
+   }
+
+.citation {font-size:10px;
+           width:300px}
+
+a:link {color:#fffcfd;
+        }
+
+
+a:visited {color:rgb(151, 217, 149);
+           }
+
+           
+a:hover {color:rgb(72, 98, 83);
+        }
